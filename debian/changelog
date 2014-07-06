@@ -1,6 +1,6 @@
 test-deb-package (0.1) devel; urgency=medium
 
   * Initial release.
-  * Built on a Debian Testing VM
+  * Built on a Debian Testing VM (amd64).
 
  -- Valentin Hoebel <valentin@xenuser.org>  Sun, 06 Jul 2014 17:37:36 +0200
