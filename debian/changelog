@@ -1,3 +1,15 @@
+test-deb-package (0.4) stable; urgency=medium
+
+  * Improved the test.
+
+ -- Valentin Hoebel <valentin@xenuser.org>  Sun, 06 Jul 2014 19:07:22 +0200
+
+test-deb-package (0.3) stable; urgency=medium
+
+  * Added a simple test.
+
+ -- Valentin Hoebel <valentin@xenuser.org>  Sun, 06 Jul 2014 18:31:16 +0200
+
 test-deb-package (0.2) testing; urgency=medium
 
   * Added a testsuite to debian/control.

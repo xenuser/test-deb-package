@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# Tests if the test file gets placed correctly
+if [ -f /root/testfile ]; then
+	echo "The file called testfile was found. Test successfull.";
+	exit 0;
+else
+	echo "The file called testfile was not found. Test not successfull.";
+	exit 1;
+fi 
