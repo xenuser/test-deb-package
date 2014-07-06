@@ -1,3 +1,9 @@
+test-deb-package (0.2) testing; urgency=medium
+
+  * Added a testsuite to debian/control.
+
+ -- Valentin Hoebel <valentin@xenuser.org>  Sun, 06 Jul 2014 17:53:58 +0200
+
 test-deb-package (0.1) devel; urgency=medium
 
   * Initial release.
